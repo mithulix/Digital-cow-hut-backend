@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+{
+    "semi": true, 
+    "singleQuote": true, 
+    "arrowParens": "avoid"
+=======
+>>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
+{
+    "semi": true, 
+    "singleQuote": true, 
+    "arrowParens": "avoid"
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
+}

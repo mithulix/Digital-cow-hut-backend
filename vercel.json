@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "dist/server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "dist/server.js"
+    }
+  ]
+}
+=======
+>>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "dist/server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "dist/server.js"
+    }
+  ]
+}
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b

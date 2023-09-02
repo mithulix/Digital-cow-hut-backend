@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+node_modules
+/dist
+.env
+yarn.lock
+.vercel
+=======
+>>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
+node_modules
+/dist
+.env
+yarn.lock
+.vercel
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
