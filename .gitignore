@@ -1,19 +1,27 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-node_modules
-/dist
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 .env
-yarn.lock
+# testing
+/coverage
+
+# folder
+/logs
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 .vercel
-=======
->>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
-node_modules
-/dist
-.env
-yarn.lock
-.vercel
-<<<<<<< HEAD
-=======
->>>>>>> master
->>>>>>> 1a8a52d3d25833d683fa5f3fe9c32c4b50f13e4b
